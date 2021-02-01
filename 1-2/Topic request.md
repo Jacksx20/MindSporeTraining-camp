@@ -7,3 +7,7 @@
 （1）数据集的准备，这里使用的是CIFAR-10数据集。
 
 （2）构建一个卷积神经网络，这里使用ResNet-50网络。
+
+
+
+笔记：https://bbs.huaweicloud.com/forum/thread-103403-1-1.html
