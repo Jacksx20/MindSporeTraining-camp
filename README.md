@@ -17,3 +17,7 @@
 - 动静统一：MindSpore PyNative
 - AI数据高速加载直通车：单节点数据缓存模块
 - 快速定位模型精度问题：MindSpore调试器
+
+
+
+笔记：https://bbs.huaweicloud.com/blogs/241495
