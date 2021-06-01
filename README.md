@@ -23,3 +23,5 @@
 学习笔记：https://bbs.huaweicloud.com/blogs/241495
 
 学习视频回顾：https://bbs.huaweicloud.com/forum/thread-103612-1-1.html
+
+这期共11个实践作业
