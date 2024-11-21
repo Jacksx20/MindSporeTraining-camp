@@ -1,4 +1,5 @@
 # MindSporeTraining-camp
+2021年MindSpore第五期两日集训营笔记
 
 ## 课程介绍
 
